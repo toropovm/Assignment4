@@ -1,0 +1,27 @@
+/* Q5 CSS file for Q3-4 */
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    flex-direction: column;
+    margin-top: 300px;       
+
+}
+.input{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    margin: 8px 0;
+    width: 350px;
+    border: 3px solid rgb(20, 29, 153);
+    border-radius: 5px;
+    box-sizing: border-box;
+
+}
+
+.submit{
+    display: flex;
+    justify-content: center;
+    text-emphasis: blue;
+}

@@ -1,0 +1,25 @@
+/* Q5 CSS file for Q1-2 */
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    }
+
+#response{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    
+}
+
+/* Q2 */
+.hoverOver{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    font-size: xx-large;
+    
+}
+
+
